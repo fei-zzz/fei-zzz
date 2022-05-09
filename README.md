@@ -37,4 +37,4 @@
 
 ### Contributions
 
-![](https://raw.githubusercontent.com/fei-zzz/fei-zzz/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/fei-zzz/fei-zzz/blob/output/github-contribution-grid-snake.svg)
