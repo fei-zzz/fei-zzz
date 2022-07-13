@@ -7,7 +7,7 @@
 - 🌱 I’m a prospective graduate student of ECNU
 - 👯 I’m looking to collaborate on OpenSource Project
 - 💬 Ask me about ML, HPC...
-- 📫 More about me: [personal blog](http://fei-zzz.github.io)
+- 📫 More about me: [there is my blog](https://feizzz.netlify.app)
 - 🌱 Preparing for skill improvement
 
 
