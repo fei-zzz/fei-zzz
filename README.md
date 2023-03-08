@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=fei-zzz&show_icons=true&theme=vue">
 
 
-- 🔭 I’m currently working on NUDT
+- 🔭 I’m currently working on NSCC-CS
 - 🌱 I’m a prospective graduate student of ECNU
 - 👯 I’m looking to collaborate on OpenSource Project
 - 💬 Ask me about ML, HPC...
