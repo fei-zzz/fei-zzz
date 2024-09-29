@@ -1,14 +1,12 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 -150 600 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center;">
       <style>
         p {
-          font-family: "Brush Script MT", cursive; 
-          font-size: 14px; font-style: normal; 
-          font-variant: normal; 
-          font-weight: 400; 
-          line-height: 20px;
+          font-family: "Brush Script MT", cursive;
+          font-size: 30px; font-style: normal;
+          font-variant: large;
+          font-weight: 400;
         } 
       </style>
       <p>
